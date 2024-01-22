@@ -1,6 +1,6 @@
 🌍 Hello World, I'm Godja Vasile! 👋
 
-📖 I embody the transformation from an economic background to the thrilling domains of programming—a journey ignited by curiosity and a relentless thirst for learning.
+📖 I embody the transformation from an economic background to the thrilling domains of programming - a journey ignited by curiosity and a passion for learning.
 
 - 🔭 Learning: Mastering Business Modeling & Distributed Computing
 - 🌱 Passion: Python and Advanced Data Analysis are my current obsessions
